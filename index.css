@@ -1,0 +1,33 @@
+body {
+    background-color: brown;
+}
+
+.t {
+    background-color: aqua;
+    color: white;
+    text-align: center;
+}
+
+.q {
+    background-color: white;
+    color: black;
+    width: 400px;
+    height: 250px;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 1%;
+    margin-bottom: 1%;
+    border: 2px solid black;
+}
+
+.w {
+    background-color: black;
+    color: white;
+    width: 120px;
+    text-align: center;
+    border-radius: 80px;
+    border: 2px solid black;
+}
+.r{
+    background-color: bisque;
+}
